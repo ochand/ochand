@@ -1,34 +1,37 @@
-# Hi there, I'm Óliver Eduardo Chan Dorado 👋
+# Hi there, I'm Oliver Chan 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=AI+Systems+Architect+%7C+17%2B+Years+Experience;Manufacturing+Intelligence+%7C+Agentic+AI+Systems;Full-Stack+Developer+%7C+XR%2FAR+Engineer;Master+en+Ingeniería+Informática+%7C+UPC+BarcelonaTech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=AI+Systems+Architect+%7C+16%2B+Years+Experience;Manufacturing+Intelligence+%7C+Agentic+AI+Systems;Full-Stack+Developer+%7C+XR%2FAR+Engineer;Computer+Engineering+Masters+%7C+UPC+BarcelonaTech" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-**AI Systems Architect & Manufacturing Intelligence Lead** | **Director de Sistemas** at Caprichito Bello
+**AI Systems Architect in Training** | **VR Entrepreneur** | **Master's Student** at UPC BarcelonaTech
 
-- 🎓 **Master en Ingeniería Informática** - Universitat Politècnica de Catalunya (UPC BarcelonaTech)
-- 🏅 **IBM AI Engineering Professional Certificate** - Currently pursuing (Coursera)
+- 🎓 **Master in Computer Engineering** - Currently pursuing at UPC BarcelonaTech (**Expected 2026**)
+- 🏅 **IBM AI Engineering Professional Certificate** - Currently enrolled
 - 🤖 **AI Research:** Agentic systems, RAG, LLMs, Computer Vision, Operations Research
-- 💼 **17+ years** building enterprise-level systems and ERP solutions in production
+- 💼 **16+ years** building enterprise-level systems and ERP solutions in production (**including 12+ years in leadership roles**)
 - 🌍 **International experience** - Exchange program in Sweden
-- 🏗️ **Systems Architect** specializing in AI-driven business intelligence and manufacturing optimization
-- 📊 **Data Science Expert** with focus on interactive visualization and business analytics
-- 🔄 **Business Process Automation** with autonomous AI agents
+- 🚀 **Future AI Engineer** preparing through IBM certification
+- 📊 **Data Science Enthusiast** with focus on interactive visualization and business analytics
+- 🔄 **Passionate about** Business Process Automation with autonomous AI agents
 
-## 🤖 AI & Emerging Technologies
+## 🤖 AI & Technologies
 
-### Advanced AI Engineering
+### Current Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
+### Learning Stack  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+**Currently expanding expertise** in ML frameworks
+
 ### Audio Engineering & Creative Technology
 ![Audio](https://img.shields.io/badge/Audio_Engineering-FF6B35?style=for-the-badge&logo=audacity&logoColor=white)
-![Digital_Signal](https://img.shields.io/badge/Digital_Signal_Processing-00C4CC?style=for-the-badge&logo=waveform&logoColor=white)
 ![Music_Production](https://img.shields.io/badge/Music_Production-FF1744?style=for-the-badge&logo=spotify&logoColor=white)
 
 ### XR/AR Development
@@ -47,17 +50,18 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-## 🎓 Academic Projects (Master UPC BarcelonaTech)
+## 🎓 Research & Innovation Projects
 
-### 🤖 [Agentic-MRP](https://github.com/UPC-MEI/Agentic-MRP) - AI-Driven Manufacturing Intelligence
+### 🤖 [Agentic-MRP](https://github.com/UPC-MEI/Agentic-MRP) - Predictive AI Manufacturing System (In Development)
 **Tech Stack:** Python, SimPy, FastAPI, Streamlit, Docker
 - **Autonomous AI agents** for Material Requirements Planning (MRP)
 - **Discrete event simulation** for manufacturing optimization  
 - **Supply chain intelligence** with automated procurement decisions
 - **Real-time production planning** with inventory optimization
 - **Clean architecture** with dependency injection and API-first design
+- Evolving into **autonomous agent-based MRP** with **predictive analytics** as master's thesis
 
 ### 🧠 [LLM-Chat-RAG](https://github.com/UPC-MEI/LLM-Chat-RAG) - Advanced AI Chat System
 **Tech Stack:** Python, OpenAI API, ChromaDB, FastAPI, Docker
@@ -72,7 +76,7 @@
 - **Interactive dashboards** for mountaineering expedition analysis (2020-2024)
 - **Grammar of Graphics** visualization with Altair/Vega-Lite
 - **Real-time data exploration** with statistical analysis
-- **Deployed applications** on Streamlit Cloud
+- **Ready for deployment** on Streamlit Cloud
 - **Multi-dimensional analysis** with geographic and temporal insights
 
 ### 🎬 [MisVids](https://github.com/UPC-MEI/MisVids) - Enterprise Video Streaming Platform
@@ -108,19 +112,17 @@
 - **Advanced metadata management** (ID3v2.4, Vorbis Comments, iTunes tags)
 - **Precision audio splitting** with timestamp-based segmentation
 - **CLI + Interactive UI** for both automation and manual editing
-- **Production-ready** for music production and podcast processing
+- **Expanding to web platform** - developing browser-based audio processing suite
 
 ## 🏢 Professional Projects (Production Systems)
 
-### 🏗️ Current Roles
-- **Director of Systems & Continuous Improvement** at Caprichito Bello (2012-Present)
-- **Financial Subsystem Advisor** at Universidad Autónoma de Sinaloa (2022-2024)
+### 🎓 Current Focus
+**Master's Student** at UPC BarcelonaTech | **VR Entrepreneur** | **IBM AI Engineering Certification**
+*Developing VR solutions for educational and cultural applications*
 
 ### 🚀 [ERP2 Full-Stack](https://github.com/Grupo-Chadorama/ERP2-backend) - Modern Enterprise System
-**Tech Stack:** Laravel 9, PHP 8.1, Angular, Docker, AWS ECS, Terraform
+**Tech Stack:** Laravel 9, PHP 8.1, Angular, Docker, Terraform
 - **Modern enterprise architecture** with cloud-native deployment
-- **AWS production infrastructure** (ECS, RDS, ElastiCache, ALB)
-- **Docker-first development** with Make-based automation
 - **Multi-environment** deployment strategies (dev/staging/prod)
 - **Complete DevOps pipeline** with infrastructure as code
 
@@ -138,7 +140,6 @@
 - **Automated cash register reconciliation** with scheduled jobs
 - **Multi-database support** with horizontal scaling capabilities
 - **Production-ready deployment** with security best practices
-- **80% reduction** in manual processes through automation
 
 ### 🏪 [ACC2-Node ERP](https://github.com/Grupo-Chadorama/Node) - Restaurant Management System
 **Tech Stack:** PHP, Slim Framework, MySQL, Bootstrap, jQuery
@@ -146,7 +147,7 @@
 - **Electronic invoicing CFDI 4.0** compliance
 - **Multi-location inventory** management with real-time reporting
 - **Franchise model** implementation with scalable architecture
-- **Financial analytics** and business intelligence dashboard
+- **Sales analytics** and business intelligence dashboard
 
 ### 🖨️ [WebESCPOSPrint](https://github.com/Grupo-Chadorama/WebESCPOSprint) - Hardware Integration Bridge
 **Tech Stack:** Java, Swing, HTTP Server, ESC/POS Protocol
@@ -164,16 +165,10 @@
 - **Community leadership** with fork management and contributions
 - **Legacy system modernization** while maintaining backward compatibility
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ochand&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ochand&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
 
 ## 🏆 Key Achievements
 
-### 🤖 **AI & Research Excellence**
+### 🤖 **AI & Research Experience**
 - **Agentic AI systems** for autonomous manufacturing decision-making
 - **RAG implementation** with vector databases and LLM integration
 - **Computer vision** applications with OCR and AR marker recognition
@@ -181,41 +176,40 @@
 
 ### 🎵 **Creative Technology Leadership**
 - **Professional audio engineering** with modular processing architectures
-- **Digital signal processing** for music production and podcast workflows
 - **Electronic music production** as [The Ocean DJ](https://instagram.com/theoceandj)
 - **Creative-technical bridge** combining artistic vision with engineering excellence
 
 ### 🏗️ **Enterprise Architecture Mastery** 
-- **17+ years** designing and implementing business-critical systems
+- **16+ years** designing and implementing business-critical systems
 - **Government compliance** expertise (SAT México CFDI integration)
 - **Multi-tenant architecture** supporting restaurant chains and franchises
 - **Legacy system modernization** (PHP 5 → PHP 8, monolith → microservices)
 
 ### 📈 **Business Impact**
-- **80% automation** of routine business processes
-- **Government tax systems** serving thousands of businesses
+- **Mexican Government Budget and Accounting expertise in public University**
 - **Restaurant operations** streamlined across multiple locations
 - **Open source contributions** benefiting global developer community
 
 ### 🎓 **Academic & Technical Leadership**
-- **Master's degree** in Computer Engineering from prestigious UPC BarcelonaTech
-- **IBM AI Engineering Professional Certificate** - Advanced ML, Deep Learning, and AI deployment
-- **Research projects** with practical applications and deployed solutions
-- **XR/AR development** for cultural and educational institutions
+- **Currently pursuing Master's degree** in Computer Engineering from prestigious UPC BarcelonaTech
+- **Pursuing** IBM AI Engineering certification - Advanced ML, Deep Learning, and AI deployment
+- **Research projects** with practical applications and solutions
+- **XR/AR development** for cultural institutions
 - **Technical documentation** and knowledge transfer expertise
 
 ## 🌐 Languages & Location
 - 🇲🇽 **Spanish** - Native
 - 🇺🇸 **English** - Professional (TOEFL ITP 560)
 - 🇩🇪 **German** - Beginner
-- 📍 **Location:** Barcelona, Catalonia, Spain
+- 🇪🇸 **Catalan** - Learning
+- 📍 **Location:** Barcelona, Spain (**16+ years** enterprise experience in México | **International transition** for Master's studies)
 
 ## 📫 Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ochand@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ochand)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ochand)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/theoceandj)
+[![Instagram - The Ocean](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/theoceandj)
 
 ---
 
@@ -224,8 +218,8 @@
 </div>
 
 <div align="center">
-  <h3>🚀 Open to opportunities in AI Systems Architecture, Manufacturing Intelligence, and Enterprise Innovation</h3>
-  <p><em>"Bridging 17+ years of enterprise systems expertise with cutting-edge AI research to create autonomous business intelligence solutions"</em></p>
+  <h3>🚀 Open to **AI Engineering and Systems Architecture** opportunities</h3>
+  <p><em>"Bridging 16+ years of enterprise systems expertise with cutting-edge AI research to create autonomous business intelligence solutions"</em></p>
 </div>
 
 ---
@@ -233,17 +227,8 @@
 ## 🎵 Creative Technology Fusion
 Beyond architecting AI systems and enterprise solutions, I'm **[The Ocean](https://instagram.com/theoceandj)** - a DJ and electronic music producer who bridges the gap between **creative artistry** and **technical innovation**. My audio engineering projects like [Audio-Splitter](https://github.com/ICRONOK/Audio-Splitter) demonstrate how **deep technical expertise** can enhance **creative workflows**.
 
-**This unique combination of:**
-- 🤖 **AI Systems Architecture**
-- 🏗️ **Enterprise Engineering** 
-- 🎵 **Creative Technology**
-- 🔊 **Audio Engineering**
-
-**Creates a rare profile perfect for:**
-- **Creative tech companies** (Spotify, Adobe, Ableton)
-- **AI/Audio startups** needing both technical depth and creative understanding
-- **Innovation roles** requiring cross-disciplinary thinking
+**This cross-disciplinary background enables me to bridge technical innovation with creative problem-solving.**
 
 <div align="center">
-  <strong>Made with ❤️ by an AI Systems Architect who believes in the power of technology to transform business and society</strong>
+  <strong>Made with ❤️ by an AI Systems Architect in training who believes in the power of technology to transform business and society</strong>
 </div>
