@@ -54,10 +54,19 @@
 
 ## 🎓 Research & Innovation Projects
 
+### 🌆 [CityPulse-Serverless](https://github.com/UPC-MEI/CityPulse-Serverless) - Cloud-Native Urban Analytics Platform
+**Tech Stack:** Python 3.11, React 19, TypeScript, AWS Lambda, Terraform, Material-UI, Vite
+- **Real-time environmental analysis** for Spanish cities with Urban Comfort Score (UCS 0-100)
+- **Serverless architecture** with AWS Lambda and intelligent two-level caching (DynamoDB)
+- **Multi-source data integration** (AEMET weather, OpenAQ air quality, Overpass POI)
+- **Interactive mapping** with Google Maps and geographic validation
+- **Infrastructure as Code** with Terraform and automated CI/CD via GitHub Actions
+- **Optimized performance** with 10-minute cache TTL achieving ~10-20ms response times
+
 ### 🤖 [Agentic-MRP](https://github.com/UPC-MEI/Agentic-MRP) - Predictive AI Manufacturing System (In Development)
 **Tech Stack:** Python, SimPy, FastAPI, Streamlit, Docker
 - **Autonomous AI agents** for Material Requirements Planning (MRP)
-- **Discrete event simulation** for manufacturing optimization  
+- **Discrete event simulation** for manufacturing optimization
 - **Supply chain intelligence** with automated procurement decisions
 - **Real-time production planning** with inventory optimization
 - **Clean architecture** with dependency injection and API-first design
